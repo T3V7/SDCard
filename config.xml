@@ -6,7 +6,7 @@
         id        = "com.phonegap.senzor_potresa"
         version   = "1.9.4">
 
-    <name>Senzor Potresa</name>
+    <name>SDCardWriter</name>
 
     <description>
         Aplikacija, ki s pomočjo pospeškomera zaznava potrese.
